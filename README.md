@@ -1,19 +1,14 @@
 ### Hi there 👋
 
+There's not much to say, doing as usual.
 <br />
 
-- 🌱 I’m currently learning Golang and TypeScript
-- 🤔 I’m looking for help with [Kiwi](https://github.com/Kiwi-DB/)
-- 💬 Ask me about anything [here](https://github.com/BRA1L0R/BRA1L0R/issues)
-- 📫 @stack_smash on telegram
-- 🔑 General purpose [pgp public key](https://telegra.ph/PGP-PUB-10-11)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BRA1L0R&show_icons=true&include_all_commits=true&theme=dark" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BRA1L0R&show_icons=true&include_all_commits=true&theme=dark" alt="My github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BRA1L0R&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRA1L0R&layout=compact&theme=dark" />
 </a>
 
 
