@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi i'm Pietro 👋
 
-There's not much to say, doing as usual.
+Specs:
+- 14 years old
+- 🇮🇹 from Italy
+- 💻 web developer (javascript && typescript && golang)
+- 🛠️ devops experience (docker && baremetal)
+
+
+My work:
+- hyperlight: next-gen hyperapp framework github.com/BRA1L0R/hyperlight
+- quik.site: create a static html webpage with ease a.q-k.site
+
 <br />
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BRA1L0R&show_icons=true&include_all_commits=true&theme=dark" alt="My github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRA1L0R&layout=compact&theme=dark" />
-</a>
-
 
 <!--
 **BRA1L0R/BRA1L0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
