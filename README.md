@@ -8,8 +8,8 @@ Specs:
 
 
 My work:
-- hyperlight: next-gen hyperapp framework github.com/BRA1L0R/hyperlight
-- quik.site: create a static html webpage with ease a.q-k.site
+- [hyperlight](https://github.com/BRA1L0R/hyperlight): next-gen hyperapp framework
+- [quik.site](https://a.q-k.site/): create a static html webpage with ease a.q-k.site
 
 <br />
 
